@@ -7,3 +7,5 @@ You can use "AdobeRemoveWhite" to remove the white from black images, but be war
 I tried receiving help to allow me to just run the script completely through, but Adobe was of no help.
 
 As for the second file, "ConvertPNGtoDXFandEPS", well it's exactly what it sounds like.
+
+"ChangeNames" is exactly that. Take the default Midjourney names and change them to what they should be called.
